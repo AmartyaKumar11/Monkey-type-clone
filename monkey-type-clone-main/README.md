@@ -1,6 +1,6 @@
 # 🐒 Monkey Type Clone
 
-This is a clone of [Monkeytype](https://monkeytype.com/). 
+This is a clone of [Monkey-type](https://monkeytype.com/). 
 a platform that provides users with a space to practice and improve their typing skills through fun and engaging exercises.
 <br/>
 Built using only HTML, CSS, and JavaScript.
